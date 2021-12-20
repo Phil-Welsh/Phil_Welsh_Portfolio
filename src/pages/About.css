@@ -1,3 +1,8 @@
-.about-body p {
-    width: 50vw
+.about-body {
+    margin: 0px 200px 0 200px
+}
+
+.about-body li, .about-body h3 {
+    text-align: left;
+    margin: 0px 200px 0px 200px
 }

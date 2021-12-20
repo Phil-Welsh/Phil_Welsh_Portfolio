@@ -14,7 +14,7 @@ const About = () => {
                 outlook to wherever I work. Outside of work I'm a music nerd,
                 outdoor adventurer, and cat dad.</p>
 
-                <li>Skills:</li>
+                <h3>Skills:</h3>
                 <li>Front-end: HTML, CSS, Javascript, Bootstrap, EJS</li>
                 <li>Back-end: Node, Express</li>
                 <li>Database: MongoDB, SQL</li>
