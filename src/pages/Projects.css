@@ -1,1 +1,10 @@
-
+.projects-card {
+    border: 1px;
+    border-color: black;
+    border-radius: 2px;
+    border-style: solid;
+    justify-content: center;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 5px
+}
