@@ -6,7 +6,7 @@ const About = () => {
     return (
         <div className="about-body">
             <h1>About</h1>
-            <img src="https://previews.dropbox.com/p/thumb/ABaoW8b4u1VbYr_n5nDZGm_CoGN0NJqkR7-oZyXgGMWv5uVl2VCG6xaB22PSdDKqTpryPzMz97k3UcG51WF3khoaeeJnT8Nx7dhdb634abPlzr4bdYg-pXYyeThItXkIdH6lMNBvMeAltfHDX3N8fCve8GhnPzlApZ4HO-vt7lYl3oogjIIMCfIloufnSuRetLJV3C95b-SVwbE7tHaRN7Y3mUAMTQ3RybfoHBpDZKP4dsF9v4kVqNE2An57EaeZjvdJfnXNy8qKZXk7MAaKBaqNguJ0i-6sQiQdDtarD3m6nrlDw2A7gxnZuFnzHouhZowS8gDLS74RLTP9up06oKiNHJilPnCJqmU4H7eXu1aMUQ/p.jpeg"/>
+            <img src="https://previews.dropbox.com/p/thumb/ABao1kvfqPOFaPr-VkDesZChI-2n8XKWohFtdgq5tUyOCJrmwdoGXsRn9AN_m25exgkXQw-FcbN9saL1gPYKgWFFbdiIeodeeU_iLdiyjxltLJp_xMLgArZ5puBPD43Ovi_D49-JOGaYarGBWMm55BgCZu55oIszvCbJok4fH2sou6JoClCVUMy8LwB-PGyJKlxEIjTuCFctxrohW1IVoCLODNtlpeQH1Jdc474lMgfvI1SLjJENuKuhoyPO5J9ywa0XIXnIHeYMLdnLpkFLURDohA8NxY-zj56k8NFcaYHZAiQmt6_EVQZqoD_-6dEbYB9Ar21d8tfgrHckF4HxBXnZZ52SNeGOOizLDtdJtVi1qA/p.jpeg"/>
             <p>
             I’m a full stack web developer with a background in mapping and
             Geographic Information Systems. Growing up with a fierce curiosity
