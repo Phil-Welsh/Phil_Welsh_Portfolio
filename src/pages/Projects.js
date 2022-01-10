@@ -7,7 +7,7 @@ const Projects = () => {
         <div className="projects-body">
             <h1>Projects</h1>
             <div className="projects-card">
-                <h3><a href="https://quirky-visvesvaraya-15a990.netlify.app/" target="_blank">Backbone</a></h3>
+                <h3><a href="https://wifi-locator.netlify.app/" target="_blank">Backbone</a></h3>
                 <p>Find cafes with fast internet using crowdsourced data</p>
             </div>
             <div className="projects-card">
