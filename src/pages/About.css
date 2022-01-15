@@ -1,5 +1,5 @@
 .about-body {
-    margin: 0px 200px 0 200px
+    margin: 0px 300px 0 300px
 }
 
 .about-body li, .about-body h3 {
@@ -9,4 +9,7 @@
 
 .about-body img {
     height: 250px;
+    border-color: black;
+    border-radius: 10px;
+    border-style: solid;
 }
