@@ -18,10 +18,12 @@ const Projects = () => {
                     <p>Travel blog created using Django</p>
                 </div>
             </a>
-            <div className="projects-card">
-                <h3><a href="https://github.com/Phil-Welsh/wedding-website" target="_blank">Wedding Website</a></h3>
-                <p>Website for my very own wedding!</p>
-            </div>
+            <a href="https://github.com/Phil-Welsh/wedding-website" target="_blank">
+                <div className="projects-card">
+                    <h3>Wedding Website</h3>
+                    <p>Website for my very own wedding!</p>
+                </div>
+            </a>
         </div>
     );
 }
