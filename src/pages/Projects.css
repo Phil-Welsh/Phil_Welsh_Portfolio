@@ -1,11 +1,16 @@
 .projects-card {
-    border: 1px;
+    border: 3px;
     border-color: black;
     border-radius: 10px;
     border-style: solid;
     justify-content: center;
-    width: 40%;
+    width: 30%;
     margin: 0 auto;
-    margin-top: 5px;
-    background-color: rgb(4, 154, 4);
+    margin-top: 10px;
+    background-color: rgb(4, 172, 4);
+}
+
+.projects-card h3, a {
+    text-decoration: none;
+    color: black;
 }
