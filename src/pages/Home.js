@@ -6,7 +6,8 @@ const Home = () => {
   return (
     <div className="home-block">
       <h1>Phil Welsh</h1>
-      <h4>San Diego based web developer</h4>
+      <p>Full Stack Web Developer - San Diego </p>
+      <img src="https://i.imgur.com/qysRAxb.jpeg"/>
       <br/>
       <div>
         <a href="https://www.linkedin.com/in/phil-welsh/" target="_blank">LinkedIn</a>
