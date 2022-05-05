@@ -12,7 +12,7 @@ const Home = () => {
       <div>
         <a href="https://www.linkedin.com/in/phil-welsh/" target="_blank">LinkedIn</a>
         <a href="https://github.com/Phil-Welsh" target="_blank">Github</a>
-        <a href="https://www.dropbox.com/s/ossf3nvhdg09kz2/Phil%20Welsh%20-%20Resume%202-22-22.pdf?dl=0" target="_blank">Resume</a>
+        <a href="https://www.dropbox.com/s/4o7hzvu1nqip5ro/Phil%20Welsh%20-%20Resume%205-5-2022.pdf?dl=0" target="_blank">Resume</a>
       </div>
     </div>
   );
